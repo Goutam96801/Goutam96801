@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **gautamkumar96801@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1l8NyMZuG8hqInQq5PwLXTnBkvqo1Xvpf/view?usp=drive_link](https://drive.google.com/file/d/1l8NyMZuG8hqInQq5PwLXTnBkvqo1Xvpf/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Pol6sUrwnV4ysUzDvBcOLsuFwrvRcnAK/view?usp=sharing](https://drive.google.com/file/d/1Pol6sUrwnV4ysUzDvBcOLsuFwrvRcnAK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 
