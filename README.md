@@ -1,4 +1,4 @@
-![logo](https://github.com/Goutam96801/Goutam96801/blob/main/Purple%20Modern%20Gaming%20Channel%20Banner%20Landscape.gif)
+![logo]()
 <h1 align="center">Hi 👋, I'm Goutam Choudhary</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
