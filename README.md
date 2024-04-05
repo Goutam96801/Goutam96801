@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **MongoDB, ReactJS**, **NextJS**
 
-- 👨‍💻 All of my projects are available at [goutamportfolio.netlify.app](goutamportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://goutamportfolio.netlify.app/](https://goutamportfolio.netlify.app/)
 
 - 📫 How to reach me **gautamkumar96801@gmail.com**
 
