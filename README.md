@@ -22,7 +22,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.google.com/url?q=https://www.linkedin.com/in/goutam-kumar-choudhary-74601a181/&sa=d&source=apps-viewer-frontend&ust=1689874187589349&usg=aovvaw029uuad-4rqum4tdeqmigs&hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.google.com/url?q=https://www.linkedin.com/in/goutam-kumar-choudhary-74601a181/&sa=d&source=apps-viewer-frontend&ust=1689874187589349&usg=aovvaw029uuad-4rqum4tdeqmigs&hl=en" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/goutam-kumar-choudhary-74601a181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.google.com/url?q=https://www.linkedin.com/in/goutam-kumar-choudhary-74601a181/&sa=d&source=apps-viewer-frontend&ust=1689874187589349&usg=aovvaw029uuad-4rqum4tdeqmigs&hl=en" height="30" width="40" /></a>
 <a href="https://instagram.com/aryan.gautam19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryan.gautam19" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/programmersplayground" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="programmersplayground" height="30" width="40" /></a>
 </p>
