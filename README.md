@@ -8,17 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [CSEHELPER](csehelper.netlify.app)
+- 🔭 I’m currently working on [One District One Product]
 
-- 🌱 I’m currently learning **MongoDB, ReactJS**
+- 🌱 I’m currently learning **MongoDB, ReactJS**, **NextJS**
 
-- 👨‍💻 All of my projects are available at [goutams-portfolio.netlify.app](goutams-portfolio.netlify.app)
-
-- 💬 Ask me about **HTML, CSS, JS,**
+- 👨‍💻 All of my projects are available at [goutamportfolio.netlify.app](goutamportfolio.netlify.app)
 
 - 📫 How to reach me **gautamkumar96801@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Pol6sUrwnV4ysUzDvBcOLsuFwrvRcnAK/view?usp=sharing](https://drive.google.com/file/d/1Pol6sUrwnV4ysUzDvBcOLsuFwrvRcnAK/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gKlVpckN4cScaeUfp27avodb0HO_cCAT/view?usp=sharing](https://drive.google.com/file/d/1gKlVpckN4cScaeUfp27avodb0HO_cCAT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 
