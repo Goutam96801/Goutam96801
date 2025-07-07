@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Goutam Choudhary</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h1 align="center">Hey there!👋, I'm Goutam Choudhary</h1>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goutam96801&label=Profile%20views&color=0e75b6&style=flat" alt="goutam96801" /> </p>
 
@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [One District One Product]
+- 🔭 I’m currently exploring supabase as backend
 
-- 🌱 I’m currently learning **MongoDB, ReactJS**, **NextJS**
+- 💬 Ask me about **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://goutamportfolio.netlify.app/](https://goutamportfolio.netlify.app/)
 
 - 📫 How to reach me **gautamkumar96801@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gKlVpckN4cScaeUfp27avodb0HO_cCAT/view?usp=sharing](https://drive.google.com/file/d/1gKlVpckN4cScaeUfp27avodb0HO_cCAT/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1gKlVpckN4cScaeUfp27avodb0HO_cCAT/view?usp=sharing](https://drive.google.com/file/d/1gKlVpckN4cScaeUfp27avodb0HO_cCAT/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 
