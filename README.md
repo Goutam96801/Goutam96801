@@ -1,77 +1,123 @@
-<h1 align="center">👋 Hey, I'm <strong>Goutam Choudhary</strong></h1>
-<h3 align="center">Full-Stack Developer • React / Next.js • Supabase • Java Backend</h3>
+<h1 align="center">Hey, I'm <strong>Goutam Choudhary</strong> 👋</h1>
+<h3 align="center">
+  Full-Stack Engineer • Next.js • Supabase • Java • Realtime Systems • Product-Focused
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=goutam96801&label=Profile%20views&color=blueviolet&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=goutam96801&label=Profile%20views&color=6366f1&style=flat-square" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a developer who loves building modern, scalable, real-world applications — especially around:
+I build **real-world, scalable applications** with a strong focus on performance, architecture, and developer experience.
 
-- **Next.js 15 + Supabase + Clerk**  
-- **React Native Apps**  
-- **Java-based Realtime Backend Systems**  
-- **Web Dev, UI/UX, and High-quality product experiences**
+Right now I’m deeply focused on:
 
-Currently exploring **Supabase deeply** and building multiple production-grade apps.
+- **Next.js 15 (App Router) + Supabase + Clerk**
+- Realtime systems with **PostgreSQL + Supabase Realtime**
+- Modern React frontends with **Tailwind + shadcn/ui**
+- Secure authentication systems in **Java**
+- Product-focused UI/UX with clean, minimal design
 
----
-
-## 🔧 Tech Stack
-
-### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux" height="40" />
-</p>
-
-### **Backend & Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,java,supabase,postgres,mongodb,firebase,express" height="40" />
-</p>
-
-### **Tools & Other**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" height="40" />
-</p>
+I enjoy turning complex ideas into simple, well-structured products.
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Tech Stack
 
-### 🔹 **Roomi-style Housing App**
-A full-stack platform built using:
+### Frontend
+- **Next.js 15 (App Router)**
+- React, TypeScript, TailwindCSS  
+- Zustand, React Query, React Hook Form, Zod  
+- shadcn/ui, Framer Motion  
 
-- Next.js 15 (App Router)  
-- Supabase (DB, Realtime, Storage)  
-- Clerk Auth  
-- Tailwind, shadcn, React Query, Zustand  
+### Backend & Database
+- **Supabase (Postgres, Realtime, Storage, Edge Functions)**
+- Java (Spring Boot-style architecture)
+- Node.js + Express  
+- PostgreSQL, MongoDB, Firebase  
 
-### 🔹 **Employee Management System (React)**
-- LocalStorage-based login  
-- CRUD operations  
-- Basic vs Advanced employee form modes  
-
-### 🔹 **Java Authentication Backend**
-- OTP  
+### Auth & Security
+- Clerk  
+- OTP-based authentication  
 - Biometric (Face Recognition)  
 - Secure PIN storage  
-- Cross-device verification like Microsoft Authenticator  
+- Cross-device verification systems  
+
+### Tools & Dev Workflow
+- Git, GitHub, Vercel  
+- Postman, VS Code  
+- Figma, Cursor, AI-assisted dev  
 
 ---
 
-## 📫 Contact
+## 🏗️ Featured Projects
+
+### 🏠 Roomi-Style Housing Platform  
+A production-grade roommate & housing app.
+
+**Tech:**
+- Next.js 15 (App Router)
+- Supabase (DB, Realtime, Storage)
+- Clerk Auth  
+- Tailwind + shadcn/ui  
+- React Query + Zustand  
+
+**What I built:**
+- Listings, profiles, chat, realtime updates  
+- Secure authentication & role-based access  
+- Scalable Postgres schema design  
+
+---
+
+### 👥 Employee Management System (React)
+
+A clean CRUD app with two modes:
+
+- LocalStorage authentication  
+- **Basic vs Advanced** employee form  
+- Full create, read, update, delete flow  
+- Component-driven UI  
+
+---
+
+### 🔐 Java Secure Authentication Backend  
+
+A custom authentication system with:
+
+- OTP verification  
+- Face recognition login  
+- Secure encrypted PIN storage  
+- Cross-device login verification (like Microsoft Authenticator)  
+
+---
+
+## 🌱 What I’m Working On Now
+
+I’ve already built with **Supabase Edge Functions** and **Next.js Server Actions** — now I’m moving toward more:
+
+- **“Vibe coding”** — intuitive, creative, flow-based development  
+- More experimental UI/UX patterns  
+- Real-time interactive experiences  
+- Building products that *feel smooth, alive, and fun to use*  
+- Thinking more like a product engineer than just a coder  
+
+---
+
+## 📫 Get in Touch
 
 - **Email:** gautamkumar96801@gmail.com  
-- **Portfolio:** https://goutamportfolio.netlify.app/  
-- **Resume:** [Download here](https://drive.google.com/file/d/1gKlVpckN4cScaeUfp27avodb0HO_cCAT/view)
+- **Portfolio:** https://goutamportfolio.netlify.app  
+- **Resume:**  
+  https://drive.google.com/file/d/1gKlVpckN4cScaeUfp27avodb0HO_cCAT/view  
 
 ---
 
-## 🌐 Connect With Me  
-<p>
+## 🌐 Connect With Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/goutam-kumar-choudhary-74601a181/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
@@ -98,4 +144,4 @@ A full-stack platform built using:
 
 ---
 
-### ✨ Thanks for stopping by!
+### ✨ Thanks for stopping by — always shipping, always learning.
