@@ -1,147 +1,89 @@
-<h1 align="center">Hey, I'm <strong>Goutam Choudhary</strong> 👋</h1>
-<h3 align="center">
-  Full-Stack Engineer • Next.js • Supabase • Java • Realtime Systems • Product-Focused
-</h3>
+<h1 align="center">Goutam Choudhary</h1>
+<p align="center">
+  <strong>Full-Stack Engineer • Next.js • Supabase • Java</strong>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=goutam96801&label=Profile%20views&color=6366f1&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=goutam96801&color=6366f1&style=flat-square" />
 </p>
 
 ---
 
-## 🚀 About Me
+## about
 
-I build **real-world, scalable applications** with a strong focus on performance, architecture, and developer experience.
+I build clean, fast, real-world products.
 
-Right now I’m deeply focused on:
-
-- **Next.js 15 (App Router) + Supabase + Clerk**
-- Realtime systems with **PostgreSQL + Supabase Realtime**
-- Modern React frontends with **Tailwind + shadcn/ui**
-- Secure authentication systems in **Java**
-- Product-focused UI/UX with clean, minimal design
-
-I enjoy turning complex ideas into simple, well-structured products.
+Currently focused on:
+- product-first development  
+- intuitive “vibe coding” workflows  
+- realtime apps with Supabase  
+- polished UI + solid architecture  
 
 ---
 
-## 🛠️ Tech Stack
+## stack
 
-### Frontend
-- **Next.js 15 (App Router)**
-- React, TypeScript, TailwindCSS  
-- Zustand, React Query, React Hook Form, Zod  
-- shadcn/ui, Framer Motion  
+**frontend**
+- next.js • react • typescript • tailwind • shadcn/ui  
 
-### Backend & Database
-- **Supabase (Postgres, Realtime, Storage, Edge Functions)**
-- Java (Spring Boot-style architecture)
-- Node.js + Express  
-- PostgreSQL, MongoDB, Firebase  
+**backend**
+- supabase • postgres • java • node  
 
-### Auth & Security
-- Clerk  
-- OTP-based authentication  
-- Biometric (Face Recognition)  
-- Secure PIN storage  
-- Cross-device verification systems  
+**state & data**
+- zustand • react query • react hook form • zod  
 
-### Tools & Dev Workflow
-- Git, GitHub, Vercel  
-- Postman, VS Code  
-- Figma, Cursor, AI-assisted dev  
+**tools**
+- git • vercel • figma • postman  
 
 ---
 
-## 🏗️ Featured Projects
+## work
 
-### 🏠 Roomi-Style Housing Platform  
-A production-grade roommate & housing app.
+**roomi-style housing app**  
+next.js 15 • supabase • clerk • realtime • storage  
 
-**Tech:**
-- Next.js 15 (App Router)
-- Supabase (DB, Realtime, Storage)
-- Clerk Auth  
-- Tailwind + shadcn/ui  
-- React Query + Zustand  
+**employee manager (react)**  
+auth + CRUD • basic/advanced modes • local storage  
 
-**What I built:**
-- Listings, profiles, chat, realtime updates  
-- Secure authentication & role-based access  
-- Scalable Postgres schema design  
+**secure java auth system**  
+otp • face auth • encrypted pin • cross-device login  
 
 ---
 
-### 👥 Employee Management System (React)
+## now
 
-A clean CRUD app with two modes:
-
-- LocalStorage authentication  
-- **Basic vs Advanced** employee form  
-- Full create, read, update, delete flow  
-- Component-driven UI  
+exploring:
+- creative “vibe coding” patterns  
+- experimental UI interactions  
+- realtime collaborative experiences  
 
 ---
 
-### 🔐 Java Secure Authentication Backend  
+## find me
 
-A custom authentication system with:
-
-- OTP verification  
-- Face recognition login  
-- Secure encrypted PIN storage  
-- Cross-device login verification (like Microsoft Authenticator)  
-
----
-
-## 🌱 What I’m Working On Now
-
-I’ve already built with **Supabase Edge Functions** and **Next.js Server Actions** — now I’m moving toward more:
-
-- **“Vibe coding”** — intuitive, creative, flow-based development  
-- More experimental UI/UX patterns  
-- Real-time interactive experiences  
-- Building products that *feel smooth, alive, and fun to use*  
-- Thinking more like a product engineer than just a coder  
-
----
-
-## 📫 Get in Touch
-
-- **Email:** gautamkumar96801@gmail.com  
-- **Portfolio:** https://goutamportfolio.netlify.app  
-- **Resume:**  
-  https://drive.google.com/file/d/1gKlVpckN4cScaeUfp27avodb0HO_cCAT/view  
-
----
-
-## 🌐 Connect With Me
+- email: **gautamkumar96801@gmail.com**  
+- portfolio: **goutamportfolio.netlify.app**  
+- resume: **drive.google.com/file/d/1gKlVpckN4cScaeUfp27avodb0HO_cCAT/view**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/goutam-kumar-choudhary-74601a181/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="https://instagram.com/aryan.gautam19">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UClKYsfb0-EVWAPEELBR21WQ">
-    <img src="https://skillicons.dev/icons?i=youtube" height="40"/>
-  </a>
+  <a href="https://linkedin.com/in/goutam-kumar-choudhary-74601a181">linkedin</a> •  
+  <a href="https://instagram.com/aryan.gautam19">instagram</a> •  
+  <a href="https://youtube.com/@UClKYsfb0-EVWAPEELBR21WQ">youtube</a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## stats (fixed — reliable)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goutam96801&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goutam96801&layout=compact&theme=tokyonight" height="165" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=goutam96801&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goutam96801&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goutam96801&theme=tokyonight" height="180" />
+  <img height="180" src="https://github-readme-streak-stats.vercel.app/?user=goutam96801&theme=tokyonight" />
 </p>
 
 ---
 
-### ✨ Thanks for stopping by — always shipping, always learning.
+<p align="center">ship fast • keep it simple</p>
