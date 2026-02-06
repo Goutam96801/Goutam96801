@@ -1,87 +1,76 @@
-<h1 align="center">Goutam Choudhary</h1>
+<h1 align="center">Goutam Kumar Choudhary</h1>
+
 <p align="center">
   <strong>Full-Stack Engineer • Next.js • Supabase • Java</strong>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=goutam96801&color=6366f1&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=goutam96801&color=7c3aed&style=flat-square" />
 </p>
 
 ---
 
-## about
+## ✦ About
 
-I build clean, fast, real-world products.
+I build **fast, clean, realtime products** with a strong focus on design, performance, and developer experience.
 
-Currently focused on:
-- product-first development  
-- intuitive “vibe coding” workflows  
-- realtime apps with Supabase  
-- polished UI + solid architecture  
-
----
-
-## stack
-
-**frontend**
-- next.js • react • typescript • tailwind • shadcn/ui  
-
-**backend**
-- supabase • postgres • java • node  
-
-**state & data**
-- zustand • react query • react hook form • zod  
-
-**tools**
-- git • vercel • figma • postman  
+Right now I’m leaning into:
+- Intuitive **“vibe coding”**
+- Experimental UI interactions  
+- Realtime Supabase apps  
+- Product-first engineering  
 
 ---
 
-## work
+## ✦ Stack
 
-**roomi-style housing app**  
-next.js 15 • supabase • clerk • realtime • storage  
+**Frontend**  
+`next.js • react • typescript • tailwind • shadcn/ui`
 
-**employee manager (react)**  
+**Backend**  
+`supabase • postgres • java • node`
+
+**State & Forms**  
+`zustand • react query • react hook form • zod`
+
+**Tools**  
+`git • vercel • figma • postman`
+
+---
+
+## ✦ Work
+
+**Employee manager (react)**  
 auth + CRUD • basic/advanced modes • local storage  
 
-**secure java auth system**  
+**Secure java auth system**  
 otp • face auth • encrypted pin • cross-device login  
 
 ---
 
-## now
+## ✦ Find me
 
-exploring:
-- creative “vibe coding” patterns  
-- experimental UI interactions  
-- realtime collaborative experiences  
-
----
-
-## find me
-
-- email: **gautamkumar96801@gmail.com**  
-- portfolio: **goutamportfolio.netlify.app**  
-- resume: **drive.google.com/file/d/1gKlVpckN4cScaeUfp27avodb0HO_cCAT/view**
+- **Email:** gautamkumar96801@gmail.com  
+- **Portfolio:** goutamportfolio.netlify.app  
+- **Resume:** drive.google.com/file/d/1gKlVpckN4cScaeUfp27avodb0HO_cCAT/view  
 
 <p align="center">
-  <a href="https://linkedin.com/in/goutam-kumar-choudhary-74601a181">linkedin</a> •  
-  <a href="https://instagram.com/aryan.gautam19">instagram</a> •  
-  <a href="https://youtube.com/@UClKYsfb0-EVWAPEELBR21WQ">youtube</a>
+  <a href="https://linkedin.com/in/goutam-kumar-choudhary-74601a181">Linkedin</a> •  
+  <a href="https://instagram.com/aryan.gautam19">Instagram</a> •  
+  <a href="https://youtube.com/@UClKYsfb0-EVWAPEELBR21WQ">Youtube</a>
 </p>
 
 ---
 
-## stats (fixed — reliable)
+## ✨ Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=goutam96801&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goutam96801&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://img.shields.io/github/followers/goutam96801?style=for-the-badge&color=7c3aed" />
+  <img src="https://img.shields.io/github/stars/goutam96801?style=for-the-badge&color=22c55e" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.vercel.app/?user=goutam96801&theme=tokyonight" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=goutam96801&theme=tokyonight" />
 </p>
 
 ---
