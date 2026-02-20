@@ -25,7 +25,7 @@ Right now I’m leaning into:
 ## ✦ Stack
 
 **Frontend**  
-`next.js • react • typescript • tailwind • shadcn/ui`
+`next.js • react • typescript • tailwind • shadcn/ui • react-native`
 
 **Backend**  
 `supabase • postgres • java • node`
@@ -40,24 +40,24 @@ Right now I’m leaning into:
 
 ## ✦ Work
 
-**Employee manager (react)**  
-auth + CRUD • basic/advanced modes • local storage  
+**Roomiapp**  
+supabase • Nextjs with tailwind (for web) • React native (for mobile app)  • aws for notifications • cloudflare • google map integration • clerk for auth
 
-**Secure java auth system**  
-otp • face auth • encrypted pin • cross-device login  
+**Behealable**  
+supabase as backend • edge function usage • real time data fetching • Nextjs with shadcn  
 
 ---
 
 ## ✦ Find me
 
 - **Email:** gautamkumar96801@gmail.com  
-- **Portfolio:** goutamportfolio.netlify.app  
-- **Resume:** drive.google.com/file/d/1gKlVpckN4cScaeUfp27avodb0HO_cCAT/view  
+- **Portfolio:** https://goutamportfolio.netlify.app/
+- **Resume:** https://drive.google.com/file/d/1-ss4Hvlp_ZLmGA_scDLTdBW84SNeYZtt/view?usp=sharing  
 
 <p align="center">
-  <a href="https://linkedin.com/in/goutam-kumar-choudhary-74601a181">Linkedin</a> •  
-  <a href="https://instagram.com/aryan.gautam19">Instagram</a> •  
-  <a href="https://youtube.com/@UClKYsfb0-EVWAPEELBR21WQ">Youtube</a>
+  <a href="https://linkedin.com/in/goutam-kumar-choudhary">Linkedin</a> •  
+  <a href="https://instagram.com/goutam_choudhary19">Instagram</a> •  
+  <a href="https://youtube.com/@ezzmode?si=5dvzUwgjYnuwsiII">Youtube</a>
 </p>
 
 ---
